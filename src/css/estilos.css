@@ -1,6 +1,6 @@
 body {
-    background: rgb(2,0,36);
-background: linear-gradient(-10deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 54%, rgba(3,88,96,1) 100%);
+    background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,44,50,1) 86%, rgba(22,52,56,1) 100%);
     font-family: "Red Hat Display", sans-serif;
     display: flex;
     align-items: center;
