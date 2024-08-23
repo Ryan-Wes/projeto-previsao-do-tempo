@@ -1,13 +1,12 @@
 body {
     background: rgb(0,0,0);
-background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,44,50,1) 86%, rgba(22,52,56,1) 100%);
+background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(108, 79, 104, 1) 86%, rgb(145, 117, 141) 100%);
     font-family: "Red Hat Display", sans-serif;
     display: flex;
     align-items: center;
     height: 100vh;
     justify-content: center;
 }
-
 .container {
     background-color: #1f2949;
     color: white;
